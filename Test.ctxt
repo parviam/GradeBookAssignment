@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Class\ representing\ Tests\ in\ GradebookAssignment\r\n\ Child\ of\ Assignment\ class\r\n\ @Parv\ Mahajan\r\n\ @3/18/2022\ 13\:35\r\n
+comment1.params=name\ availablePoints\ earnedPoints\ testDate
+comment1.target=Test(java.lang.String,\ double,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructors\ for\ objects\ of\ class\ Test\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTestDate()
+comment2.text=\r\n\ @return\ \ \ \ \ \ Get\ test\ date\ for\ objects\ of\ class\ Test\r\n
+comment3.params=testDate
+comment3.target=void\ setTestDate(java.lang.String)
+comment3.text=\r\n\ Set\ test\ date\ for\ objects\ of\ class\ Test\r\n\ @param\ \ \ \ \ \ \ TestDate\ -\ new\ test\ date\ for\ Test\ object\r\n
+numComments=4

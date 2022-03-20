@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Project
+comment0.text=\r\n\ Class\ representing\ Projects\ in\ GradebookAssignment\r\n\ Child\ of\ Assignment\ class\r\n\ @Parv\ Mahajan\r\n\ @3/18/2022\ 13\:35\r\n
+comment1.params=name\ availablePoints\ earnedPoints\ dueDate\ groups
+comment1.target=Project(java.lang.String,\ double,\ double,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Project\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDueDate()
+comment2.text=\r\n\ @return\ \ \ \ \ \ Get\ due\ date\ for\ objects\ of\ class\ Project\r\n
+comment3.params=
+comment3.target=boolean\ getGroups()
+comment3.text=\r\n\ @return\ \ \ \ \ \ Get\ whether\ or\ not\ the\ project\ is\ a\ group\ project\ for\ objects\ of\ class\ Project\ \r\n
+comment4.params=dueDate
+comment4.target=void\ setDueDate(java.lang.String)
+comment4.text=\r\n\ Set\ due\ date\ for\ objects\ of\ class\ Project\r\n\ @param\ \ \ \ \ \ \ dueDate\ -\ new\ due\ date\ for\ Project\ object\r\n
+comment5.params=groups
+comment5.target=void\ setGroups(boolean)
+comment5.text=\r\n\ Set\ whether\ or\ not\ object\ is\ a\ group\ project\ for\ objects\ of\ class\ Project\r\n\ @param\ \ \ \ \ \ \ groups\ -\ new\ value\ for\ whether\ or\ not\ project\ is\ a\ group\ project\ -\ true\ is\ yes,\ false\ is\ no\r\n
+numComments=6

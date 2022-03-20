@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\r\n\ Root\ class\ of\ GradeBookAssignment\r\n\ Parent\ of\ Test\ and\ Project\ classes\r\n\ @Parv\ Mahajan\r\n\ @3/18/2022\ 13\:27\r\n
+comment1.params=name\ availablePoints\ earnedPoints
+comment1.target=Assignment(java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Assignment\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ \ \ \ \ \ Get\ name\ for\ objects\ of\ class\ Assignment\r\n
+comment3.params=
+comment3.target=double\ getAvailablePoints()
+comment3.text=\r\n\ @return\ \ \ \ \ \ Get\ number\ of\ available\ points\ for\ objects\ of\ class\ Assignment\r\n
+comment4.params=
+comment4.target=double\ getEarnedPoints()
+comment4.text=\r\n\ @return\ \ \ \ \ \ Get\ number\ of\ earned\ points\ for\ objects\ of\ class\ Assignment\r\n
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ Set\ name\ for\ objects\ of\ class\ Assignment\r\n\ @param\ \ \ \ \ \ \ name\ -\ new\ name\ for\ Assignment\ object\r\n
+comment6.params=availablePoints
+comment6.target=void\ setAvailablePoints(double)
+comment6.text=\r\n\ Set\ available\ points\ for\ objects\ of\ class\ Assignment\r\n\ @param\ \ \ \ \ \ \ availablePoints\ -\ new\ \#\ of\ available\ points\ for\ Assignment\ object\r\n
+comment7.params=earnedPoints
+comment7.target=void\ setEarnedPoints(double)
+comment7.text=\r\n\ Set\ earned\ points\ for\ objects\ of\ class\ Assignment\r\n\ @param\ \ \ \ \ \ \ earnedPoints\ -\ new\ \#\ of\ earned\ points\ for\ Assignment\ object\r\n
+numComments=8

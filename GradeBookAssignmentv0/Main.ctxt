@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Driver\ class\ that\ works\ as\ a\ crude\ text\ interface\ for\ GradeBookAssignment\r\n\r\n\ @Parv\ Mahajan\r\n\ @3/18/2022\ 13\:50\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n\ Follows\ directions\ detailed\ in\ assignment\ sheet\r\n
+comment2.params=assignments
+comment2.target=double\ average(java.util.ArrayList)
+comment2.text=\r\n\ @return\ double\ average\ of\ all\ percentage\ scores\ in\ the\ arrayList\ given\r\n\ @param\ assignments\ is\ an\ arrayList\ of\ all\ assignments\ in\ one\ Main\ object\r\n\ Really,\ this\ doesn't\ need\ to\ be\ public\ or\ static,\ but\ I\ copied\ the\ directions\ given\ \:)\r\n
+numComments=3
